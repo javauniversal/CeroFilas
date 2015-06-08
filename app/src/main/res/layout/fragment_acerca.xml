@@ -1,0 +1,23 @@
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@mipmap/ic_launcher"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:text="Ut rutrum elit sodales nulla convallis, eget ultricies odio commodo. Integer sed porta erat."
+        android:textColor="@color/color_principal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal" />
+
+</LinearLayout>

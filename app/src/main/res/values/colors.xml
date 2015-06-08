@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_principal">#FF5722</color>
+    <color name="color_blanco">#FFF</color>
+    <color name="dark_gray_pressed">#373e44</color>
+</resources>

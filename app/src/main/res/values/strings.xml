@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CeroFilas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Menu Opened</string>
+    <string name="drawer_close">Menu Closed</string>
+
+    <string name="txt_carnet">Carnet</string>
+    <string name="txt_password">Password</string>
+    <string name="btn_ingresar">Ingresar</string>
+
+    <!-- Menu -->
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_estado">Estado</string>
+    <string name="menu_promedio">Promedio</string>
+    <string name="menu_notas">Notas</string>
+    <string name="menu_horario">Horario</string>
+    <string name="menu_turno">Pedir turno</string>
+    <string name="menu_bienestar">Eventos</string>
+    <string name="menu_salir">Salir</string>
+    <string name="menu_mapas">Mapas</string>
+    <string name="title_activity_act_perfil">Perfil estudiante</string>
+
+</resources>
